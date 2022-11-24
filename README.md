@@ -1,5 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/vecteurs-premium/jeune-fille-debout-regardant-ville-cyberpunk-illustration-vectorielle_37402-1790.jpg?w=2000">
- <source media="(prefers-color-scheme: light)" srcset="https://img.freepik.com/vecteurs-premium/jeune-fille-debout-regardant-ville-cyberpunk-illustration-vectorielle_37402-1790.jpg?w=2000">
+ <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuh4A7-qU_4pyv7SH91xDb6Zx0tiCVeUzFcQ&usqp=CAU">
+ <source media="(prefers-color-scheme: light)" srcset=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuh4A7-qU_4pyv7SH91xDb6Zx0tiCVeUzFcQ&usqp=CAU">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
