@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/fddef43eb9d636ef0705539ed1d45215/4e697f7daac2e81c-c2/s540x810/52aeeb75c49e9e9e49506b5f00da468236f8e6f6.gifv">
- <source media="(prefers-color-scheme: light)" srcset=https://64.media.tumblr.com/fddef43eb9d636ef0705539ed1d45215/4e697f7daac2e81c-c2/s540x810/52aeeb75c49e9e9e49506b5f00da468236f8e6f6.gifv">
+ <source media="(prefers-color-scheme: dark)" srcset="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+ <source media="(prefers-color-scheme: light)" srcset="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
